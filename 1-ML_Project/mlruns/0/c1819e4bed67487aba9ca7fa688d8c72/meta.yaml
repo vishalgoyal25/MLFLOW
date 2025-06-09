@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c1819e4bed67487aba9ca7fa688d8c72/artifacts
+end_time: 1749472011223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1819e4bed67487aba9ca7fa688d8c72
+run_name: delicate-hound-357
+run_uuid: c1819e4bed67487aba9ca7fa688d8c72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749471507523
+status: 3
+tags: []
+user_id: DELL
